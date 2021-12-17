@@ -28,7 +28,7 @@ O código está disponível via `clone`.
 ### Passo a passo para testar em desenvolvimento
 
 ```shell
-  git clone gatitoz-luan/Calculadora-svelte
+  git clone https://github.com/gatitoz-luan/Calculadora-svelte.git
   cd Calculadora-svelte
   npm install
   npm run dev
