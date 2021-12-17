@@ -28,8 +28,8 @@ O código está disponível via `clone`.
 ### Passo a passo para testar em desenvolvimento
 
 ```shell
-  git clone gatitoz-luan/ola-svelte
-  cd ola-svelte
+  git clone gatitoz-luan/Calculadora-svelte
+  cd Calculadora-svelte
   npm install
   npm run dev
 ```
