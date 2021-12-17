@@ -68,8 +68,8 @@
 
 <style>
   .calculate {
-    height: 220px;
-    width: 150px;
+    height: 250px;
+    width: 200px;
     background-color: var(--backgroundColor);
     padding: 10px;
     border-radius: 10px;

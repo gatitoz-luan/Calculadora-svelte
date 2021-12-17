@@ -24,37 +24,34 @@
     padding: 5px 5px 0 5px;
     border-radius: 2px;
 
-    font-size: 1.7rem;
+    font-size: 2rem;
     font-family: sans-serif;
     margin: 2px 1px;
   }
 
-  .s-10 {
+  .s-11 {
     font-size: 1.5rem;
   }
-  .s-11 {
-    font-size: 1.35rem;
-  }
   .s-12 {
-    font-size: 1.15rem;
+    font-size: 1.5rem;
   }
   .s-13 {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
   }
 
   .s-14 {
-    font-size: 1.05rem;
+    font-size: 1.3rem;
   }
 
   .s-15 {
-    font-size: 1rem;
+    font-size: 1.3rem;
   }
 
   .s-16 {
     font-size: 1rem;
   }
   .s-17 {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
   }
 
   .s-18 {
