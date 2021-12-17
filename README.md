@@ -1,5 +1,9 @@
+# ola-svelte
+ treinando SVELTE
+
 <h1 align="center">
-  Boas vindas a Calculadora!
+ Treinando SVELTE com uma calculadora!
+>>>>>>> 66ae379a10300ddaab8505ca322d844b6d1cc5e8
  👋
 </h1>
 <p align="center">
@@ -28,7 +32,11 @@ O código está disponível via `clone`.
 ### Passo a passo para testar em desenvolvimento
 
 ```shell
+<<<<<<< HEAD
   git clone https://github.com/acmesquita/calculator-svelte.git
+=======
+  git clone https://github.com/gatitoz-luan/ola-svelte/
+>>>>>>> 66ae379a10300ddaab8505ca322d844b6d1cc5e8
   cd calculator-svelte
   npm install
   npm run dev
