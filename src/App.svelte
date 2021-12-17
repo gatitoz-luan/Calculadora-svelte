@@ -1,24 +1,18 @@
 <script lang="ts">
-	import Calculadora from "./components/Calculadora.svelte";
-
-	let numero = 42
+	import Calculate from "./components/calculate.svelte";
 </script>
 
 <main>
-	{#if numero === 42}
-		<Calculadora />
-	{:else}
-		<h1>Falso</h1>
-	{/if}
+	<Calculate />
 </main>
 
 <style>
 	:global(body) {
-		background-color: black;
+		background-color: #111;
 	}
 
 	:root {
-		--cor-fundo: #555;
+		--backgroundColor: #555;
 	}
 
 	main {
